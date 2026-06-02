@@ -43,11 +43,6 @@ The network is divided into multiple departments using VLANs and includes securi
 - PCs, Laptops, Printers
 - Servers
 
----
-
-## Topology
-
-![Topology](topology.png)
 
 ---
 
