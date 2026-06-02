@@ -35,6 +35,10 @@ The network is divided into multiple departments using VLANs and includes securi
 
 ---
 
+## Topology
+
+![Network Topology](topology.png)
+
 ## Devices Used
 
 - Cisco 2811 Router
