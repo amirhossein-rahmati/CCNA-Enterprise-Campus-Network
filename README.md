@@ -1,4 +1,4 @@
-# CCNA Enterprise Campus Network
+# Multi-VLAN Enterprise Network with Router-on-a-Stick
 
 ## Overview
 
