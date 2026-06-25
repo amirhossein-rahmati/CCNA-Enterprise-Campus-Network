@@ -119,21 +119,6 @@ The following tests were successfully completed:
 
 ---
 
-## Future Enhancements
-
-Potential future improvements include:
-
-- OSPF Deployment
-- ACL Implementation
-- EtherChannel
-- HSRP Redundancy
-- NAT/PAT
-- NTP
-- Syslog
-- SNMP Monitoring
-
----
-
 ## Technologies Used
 
 - Cisco Packet Tracer
