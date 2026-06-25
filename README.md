@@ -150,4 +150,4 @@ Potential future improvements include:
 
 Network & Infrastructure Enthusiast
 
-CCNA | VMware vSphere | MTCNA Candidate | MTCNA
+CCNA | VMware vSphere | MTCNA Candidate 
